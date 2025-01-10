@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'project_management_system.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'pms',
+        'NAME': 'project_mgmt_system',
         'USER': 'root',
         'PASSWORD': 'root',
         'HOST': 'localhost',
